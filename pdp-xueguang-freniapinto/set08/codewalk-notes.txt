@@ -1,0 +1,31 @@
+TA-1 Name:- Sarita
+TA-2 Name:- Manasa
+
+Design Grade for q1:- AB
+Design Grade for q2:- A
+Correctness Score for q1:- 15/15
+Correctness Score for q2:- 15/15
+
+TA Comments on Design for q1:-
+1. loops? - No documentation for the visited context argument
+2. missing data definition for SetOfSymbol
+3. halting-measure incomplete in get-edges
+4. Documentation missing for invariants even after comments in the previous codewalk notes
+
+TA Comments on Design for q2:-
+1. Typo in MyClause data definition
+2. MayBeX should have been removed
+3. Why not generalize make-list-of-neg/pos
+4. is-null-derivable? wrong strategy
+5. eliminate-singletons - no documentation for the context argument
+6. write better where clauses
+
+Student1 CCIS ID:- xueguang
+Presentation Grade:- A
+TA Comments on Presentation:-
+
+Student2 CCIS ID:- freniapinto
+Presentation Grade:- AB
+TA Comments on Presentation:-
+1. Follow up questions were needed
+2. Could not answer in codewalk example correctly

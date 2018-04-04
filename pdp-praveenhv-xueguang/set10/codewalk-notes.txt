@@ -1,0 +1,20 @@
+TA-1 Name:- Shailesh
+TA-2 Name:- Amit N
+
+Design Grade for q1:- A
+Design Grade for q2:- A
+Correctness Score for q1:- 15
+Correctness Score for q2:- 8
+
+TA Comments on Design for q1:-
+- update strategies and return type of function for stateful objects.
+
+TA Comments on Design for q2:-
+
+Student1 CCIS ID:- praveenhv
+Presentation Grade:- A
+TA Comments on Presentation:-
+
+Student2 CCIS ID:- xueguang
+Presentation Grade:- A
+TA Comments on Presentation:-

@@ -1,0 +1,20 @@
+TA-1 Name:- Kovit
+TA-2 Name:- Abhay
+
+Design Grade:- A
+Correctness Score:- 15/15
+TA Comments on Design:-
+
+- use constants in code for color
+- give contract and purpose for complex lambda functions
+- strategy for acceptable-felleisen-roster? should be use template of List
+- use generic constants in function definition (FELLIESEN-SLIP-COLOR instead of WANG)
+- use HOF wherever at all places where the implementation is simplified (in q1)
+
+Student1 CCIS ID:-
+Presentation Grade:- A
+TA Comments on Presentation:-
+
+Student2 CCIS ID:-
+Presentation Grade:-
+TA Comments on Presentation:-

@@ -1,0 +1,29 @@
+TA-1 Name:- Vijay Philip (vijay86)
+TA-2 Name:- Shailesh Shankar Pujari (shail174)
+
+Design Grade for q1:- A
+Design Grade for q2:- A
+Correctness Score for q1:- 14/15
+Correctness Score for q2:- 15/15
+
+TA Comments on Design for q1:-
+- program and list of definitions are the same, then why 2 templates
+- ident variable was not required for header i.e. could have used in the body
+- could have used constant as INITIAL-INDENT instead of 4
+- list-of-var-to-string has an invariant for non-empty list but has a check for empty
+- contract for lambda is missing in list-of-var-to-string
+- argument-to-string has incomplete contract i.e. the function takes in 5 arguments
+
+TA Comments on Design for q2:-
+-  Strategy for axis-move-forward is incorrect. i.e. should be using template for Range
+-  Overall design was good.
+Student1 CCIS ID:- freniapinto
+Presentation Grade:- A
+TA Comments on Presentation:-
+- Able to answer the handling of breaking the function arguments i.e. which part of the code handles the functionality
+Student2 CCIS ID:- xueguang
+Presentation Grade:- A
+TA Comments on Presentation:-
+- Able to answer as to why a separate template for lox-fn i.e. using an if clause
+- Able to explain the data defintions
+- Able to correct the template for axis-move-forward

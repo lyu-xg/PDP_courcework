@@ -1,0 +1,16 @@
+TA-1 Name:- Sujith Narayan
+TA-2 Name:- Shailesh Pujari
+
+Design Grade:- B
+Correctness Score:- 10/15
+TA Comments on Design:-
+1. No data definition and template for list
+2. contract for input-legal? not correct i.e. used input instead of MachineInput
+3. strategy for next-state
+4. No template for Machine Input
+5. No error messages in tests
+
+
+Student1 CCIS ID:- xueguang
+Presentation Grade:- A
+TA Comments on Presentation:-

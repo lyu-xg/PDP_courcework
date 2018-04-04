@@ -1,0 +1,27 @@
+TA-1 Name:- Rahul
+TA-2 Name:- Harshil
+
+Design Grade for q1:- A
+Correctness Score for q1:- 6/15
+(-9 for the manual run of this type: all 3 make toys with contract violations)
+
+TA Comments on Design for q1:-
+- Incorrect contract for after-key-event, should return a World not Widget
+- big-bang implementation looks good
+- Incorrect template for Politician% 
+
+Suggestions:-
+- Unnecessary call for after-key-event to implementations of Toy, could have returned this in meta-toy
+- Could have generalized x-after-drag and y-after-drag functions in Throbber
+
+Student1 CCIS ID:- praveenhv
+Presentation Grade:- A
+TA Comments on Presentation:-
+- Good presentation
+- Asked about the implementation for Throbber, satisfactory answer
+
+Student2 CCIS ID:- xueguang
+Presentation Grade:- A
+TA Comments on Presentation:-
+- Good presentation
+- Asked about the implementation for Politician, satisfactory answer

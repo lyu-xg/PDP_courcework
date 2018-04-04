@@ -1,0 +1,22 @@
+TA-1 Name:- Rahul
+TA-2 Name:- Amit N
+
+Student1 CCIS ID:- xueguang
+
+Correctness Score:- 12/15
+
+Presentation Grade:- A
+TA Comments on Presentation:- N/A
+
+Design Grade:- AB
+
+TA Comments on Design:-
+call-lists
+- halting mesures were to be provided
+- make use of templates wherever possible and write the strategies as use of template
+- color constant for yellow should be named in better way
+- -3 for changing the name of file from class-list.rkt to class-lists.rkt. (Parth Bansal)
+
+screensaver
+- circle-after-key-event strategy wrong
+- examples are missing. No direct tests are defined.

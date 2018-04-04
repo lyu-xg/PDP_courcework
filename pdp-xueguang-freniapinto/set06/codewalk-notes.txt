@@ -1,0 +1,27 @@
+TA-1 Name:- kovit
+TA-2 Name:- abhay
+
+Design Grade:- AB
+Correctness Score:- 15/15
+TA Comments on Design:-
+-- no template for new node event
+-- no interp for node
+-- contract for node template is missing
+-- interp missing for tree
+-- interp and contract for world is missing
+-- incorrect strategy for tree-to-scene
+-- incorrect contract for some of the methods
+-- line width crossing 80 chars
+
+
+Student1 CCIS ID:- xueguang
+Presentation Grade:- A
+TA Comments on Presentation:-
+-- where is the template for new node event
+  -- couldnt answer what kind of data it is and said you dont need template for it
+
+
+Student2 CCIS ID:- frenapinto
+Presentation Grade:- A
+TA Comments on Presentation:-
+-- presenation was good 
